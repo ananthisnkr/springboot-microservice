@@ -1,0 +1,58 @@
+.homePage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction : column;
+}
+
+#addForm {
+    width:600px;
+    display :flex;
+    justify-content:center;
+}
+#addorview {
+    display :flex;
+    justify-content:center;
+}
+.addBtn{
+display:flex;
+justify-content:center;
+}
+h1 {
+    text-align: center;
+}
+input, button {
+    margin: 5px;
+}
+button {
+    cursor: pointer;
+}
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    text-align: left;
+}
+th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+th {
+    background-color: #f2f2f2;
+}
+.edit-icon, .delete-icon ,.save-icon , .cancel-icon {
+     cursor: pointer;
+     color: #007bff;
+     font-size: 18px;
+     margin-right: 10px;
+     width:50%
+}
+.action-icons{
+    display:flex;
+}
+
+
+
+
+
+
