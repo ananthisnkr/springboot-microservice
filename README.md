@@ -14,7 +14,7 @@ have to pass in subsequent API calls.
 4. Delete a customer
 
 5. Update a customer
-6. 
+
 - Basically we need ability to Login, view the list of customer, create a new customer,
 delete and update an existing customer.
 
